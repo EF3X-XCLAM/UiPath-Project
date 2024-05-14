@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DestinationURL&Sequence_1",
+        "Destination&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "ExtractDataTable&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../Desktop/worked.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "Destination&Sequence_1",
+        "DestinationURL&Sequence_1",
+        "ExtractDataTable&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
