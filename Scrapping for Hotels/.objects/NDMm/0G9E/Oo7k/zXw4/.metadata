@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Very good 8+'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "zXw4l5TwXE2mSTl1LMMP4w",
+  "Reference": "E4M5a9U2-0S1ChkRgAtgEg/zXw4l5TwXE2mSTl1LMMP4w",
+  "ParentRef": "E4M5a9U2-0S1ChkRgAtgEg/Oo7kyHHi3UCBCP9iZbOEkQ",
+  "Created": "2024-05-17T18:56:34.8112173Z",
+  "Updated": "2024-05-17T18:56:34.8112173Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

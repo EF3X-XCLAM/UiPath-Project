@@ -22062,15 +22062,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EF3X\\.nuget\\packages\\": {}
+    "C:\\Users\\ganes\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "BlankProcess1",
       "projectName": "BlankProcess1",
-      "projectPath": "C:\\Users\\EF3X\\Downloads\\UiPath-Project-main\\BlankProcess1\\.local",
-      "packagesPath": "C:\\Users\\EF3X\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EF3X\\Downloads\\UiPath-Project-main\\BlankProcess1\\.local"
+      "projectPath": "C:\\Users\\ganes\\OneDrive - Kaunas University of Technology\\Dokumentai\\UiPath-Project\\Scrapping for Hotels\\.local",
+      "packagesPath": "C:\\Users\\ganes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ganes\\OneDrive - Kaunas University of Technology\\Dokumentai\\UiPath-Project\\Scrapping for Hotels\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -22106,7 +22106,7 @@
             "version": "[24.4.1-preview, 24.4.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\EF3X\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ganes\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

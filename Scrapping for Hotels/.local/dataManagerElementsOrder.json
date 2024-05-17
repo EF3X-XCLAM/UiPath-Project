@@ -12,10 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "ExtractTableData&Sequence_1",
+        "CheckinURL&Sequence_1",
+        "CroppedURL&Sequence_1",
+        "FilteredURL&Sequence_1",
         "DestinationURL&Sequence_1",
-        "Destination&Sequence_1",
-        "ExtractDataTable&Sequence_1",
-        "ExtractDataTable&Sequence_2"
+        "Destination&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

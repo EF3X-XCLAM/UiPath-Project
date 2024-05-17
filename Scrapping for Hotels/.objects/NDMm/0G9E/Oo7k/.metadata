@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Booking.com  Official site  The best hot",
+  "Type": "Screen",
+  "Id": "Oo7kyHHi3UCBCP9iZbOEkQ",
+  "Reference": "E4M5a9U2-0S1ChkRgAtgEg/Oo7kyHHi3UCBCP9iZbOEkQ",
+  "ParentRef": "E4M5a9U2-0S1ChkRgAtgEg/0G9E9Opq7kqyNVoyjWzD3A",
+  "Created": "2024-05-17T18:56:34.4814392Z",
+  "Updated": "2024-05-17T18:56:34.4814392Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

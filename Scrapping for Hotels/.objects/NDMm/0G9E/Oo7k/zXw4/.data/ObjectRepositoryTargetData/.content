@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1MfKnvcu8kSke3rL1yHeVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.booking.com/searchresults.en-gb.html?ss=Warsaw&amp;ssne=Warsaw&amp;ssne_untouched=Warsaw&amp;label=gen173nr-1FCAEoggI46AdIM1gEaIgBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAK4_-SxBsACAdICJDI3MzZkYTFkLTIzNGEtNDBhMi04MmZiLWU2ZTk0YWM1YzI0ZdgCBuACAQ&amp;sid=4139604cad4c0ec216d6f7e1a0ebda8d&amp;aid=304142&amp;lang=en-gb&amp;sb=1&amp;src_elem=sb&amp;src=searchresults&amp;dest_id=-534433&amp;dest_type=city&amp;checkin=2024-10-31&amp;checkout=2024-11-20&amp;group_adults=2&amp;no_rooms=1&amp;group_children=0" CVScreenId="27ac5df9-cce0-46ff-9e80-25582266224d" CvTextArea="60, 597, 83, 15" CvTextArgument="Very good: 8+" CvType="Text" DesignTimeRectangle="62, 593, 81, 20" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Very good: 8+' parentid='filter_group_review_score_:r23:' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Very good: 8+' parentid='filter_group_review_score_:r23:' tag='DIV' type='' class='a53cbfa6de e7c28a2436' check:innerText='Very good: 8+' /&gt;" Guid="de983e75-baf1-4963-a045-b7858d0c9ce3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Booking.com: Hotels in Warsaw. Book your hotel now!' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="87222bc817c20b4d3cbb2095c856a086.png" xmlns="">0Szq5CJ_TtUmUXDfIAXD_Ag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
