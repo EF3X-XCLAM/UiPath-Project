@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "setrow&Sequence_1",
         "ExtractDataTable&Sequence_1",
         "Directory_to_Desktop&Sequence_1",
         "Destination&Sequence_1",
