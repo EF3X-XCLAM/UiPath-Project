@@ -12,7 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "setrow&Sequence_1",
+        "ListEmails&Sequence_1",
+        "Email_Dataable&Sequence_1",
+        "Selector&Sequence_1",
+        "HotelName&Sequence_8",
+        "HotelNames&Sequence_8",
+        "value&Sequence_13",
         "ExtractDataTable&Sequence_1",
         "Directory_to_Desktop&Sequence_1",
         "Destination&Sequence_1",
