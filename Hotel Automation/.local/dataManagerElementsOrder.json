@@ -12,6 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "matEmails&Sequence_1",
+        "dtEmail&Sequence_1",
+        "strInput&Sequence_1",
         "ListEmails&Sequence_1",
         "Email_Dataable&Sequence_1",
         "Selector&Sequence_1",
