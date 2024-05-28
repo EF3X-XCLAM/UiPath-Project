@@ -1,2 +1,2 @@
 # UiPath-Project
-Place the User Preferences file in the desktop to run access the file as expected
+## An team project on scraping data of different hotels and extracting E-mail to send a personalised E-mail to the Hotel
